@@ -21,7 +21,7 @@ I enjoy doing a variety of things outside of school. Here are some of my favorit
 
 1. Pickup Basketball
 2. Hanging out with friends/family
-3. Working of growing startups
+3. Working oo growing startups
 
 # Business endeavors
 
