@@ -10,7 +10,7 @@ Welcome to my GitHub Pages repository! Here, I share information on various topi
 
 # About Me
 
-Hello, I'm [Joshua Teemul], a passionate [entrperneaur and college studen]. I love exploring new places and working on exciting projects. Here's a bit more about me.
+Hello, I'm [Joshua Teemul], a passionate [entrepreneur and college student]. I love exploring new places and working on exciting projects. Here's a bit more about me.
 
 ## Education
 - [University of Missouri], [Information Technology], [Jr]
